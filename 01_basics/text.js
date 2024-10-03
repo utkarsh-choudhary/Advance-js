@@ -8,7 +8,7 @@ let accountState;
 
 // accountId=12345 
 
-
+// prefer not to use var because of the issue in block scope and functional scope 
 
 accountEmail="uc@uc.com";
 accountPassword="34743";
